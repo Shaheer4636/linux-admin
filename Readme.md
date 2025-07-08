@@ -1,0 +1,1 @@
+This repo is related to my learning of linux admin stuff. I will post my learning along with the notes here in this repo and maybe youtube videos as well if I get time to create them. 
